@@ -30,5 +30,5 @@ Also, obviously, the questions I posed on Medium are pretty high and mighty and 
 - [StackOverflow 2017 survey results](https://www.kaggle.com/stackoverflow/so-survey-2017)
 
 ## Acknowledgements
-Thanks to 
+Thanks to Udacity's Data Scientist Nanodegree Program and Josh Bernhard for inspiring the questions I looked at in this project. Thanks also to StackOverflow for taking the survey and for helping me answer countless Python and pandas questions.
 
